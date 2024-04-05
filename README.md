@@ -1,3 +1,7 @@
+
+![snap](https://github.com/ISHANTBHATT/foodapp/assets/68179956/864772cf-6164-40f6-8219-a291ccb9a0a5)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
